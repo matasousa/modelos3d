@@ -1,11 +1,11 @@
 {
   "message": "Novidades da 1.0.2: correções e melhorias de estabilidade.",
   "ios": {
-    "latest": "9.9.9",
+    "latest": "1.0.2",
     "url": "https://apps.apple.com/br/app/tabela-peri%C3%B3dica-crq-sp/id6749896686"
   },
   "android": {
-    "latest": "9.9.9",
+    "latest": "1.0.2",
     "url": "https://play.google.com/store/apps/details?id=com.crq4.tabela"
   }
 }
